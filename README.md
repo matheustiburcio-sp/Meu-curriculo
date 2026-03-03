@@ -1,2 +1,83 @@
-# Meu-curriculo
-index.HTML
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu curriculo - Matheus Tiburcio Araujo RA8261106790 </title>
+
+    <br>
+
+    <meta charset="UTF-8">
+   
+    <style>
+         body {
+      background-color: #011627; /* azul escuro */
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #3DB2FF; /* azul mais claro */
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Matheus Tiburcio Araujo</h1>
+ 
+  <hr>
+
+
+  <p>(11)96415-9465 - matheus.tiburzio@gmail.com
+     RA:8261106790 </p><br>
+     
+     <p>Meu nome é Matheus Tiburcio Araujo, meu sonho como profissional é trabalhar no setor financeiro como no Bradesco, e principalmente adquirir mais experiencia profissional<br>e conhecimento na area de ADS (analise e desenvolvifmentom de sistemas)
+
+    <br>
+         <hr style="width:1250px; margin: 0; display: block; text-align: left;">
+
+
+             <h1 style="color:green; font-size: 40px;">Educação</h1>
+   
+        <hr style="width:200px; margin: 0;margin-top:20px;"
+
+
+         <br>
+
+
+        <p>
+            Instituiçao de conclusao do ensino médio: Colegio Objetivo (2025)<br>
+            Faculdade: Sao Judas Tadeu (unidade mooca)
+            Termino da graduaçao em ADS - 2028
+
+
+        </p>
+
+
+            <hr style="width: 1250px; margin: 0;margin-top:20px;">
+
+
+        <br>
+
+
+        <h1 style="color:blueviolet; font-size: 40px;">Aptidoes e competencias pessoais </h1>
+
+
+             <hr style=" width: 680px; margin: 0;">
+
+
+        <p>-capacidade de inovação e criatividade<br>
+            -capaciddade de trabalho em equipe<br>
+            -capacidade de trabalhar sobre pressão<br>
+            -melhor experiencia com mais pratica<br>
+           
+    <div class="foto-direita">
+    <img src="WhatsApp Image 2026-02-28 at 21.31.26.jpeg">
+</div>
+
+
+        <hr style="width:300px; margin:0;margin-top:20px">
+           
+ </body>
+</html>
+ 
